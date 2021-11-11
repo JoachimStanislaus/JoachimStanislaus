@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joachimmmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joachimmmy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joachim stanislaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joachim stanislaus" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/joachim tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joachim tan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joachimstanislaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joachim stanislaus" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11297111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joachim tan" height="30" width="40" /></a>
 <a href="https://instagram.com/joachimmmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joachimmmy" height="30" width="40" /></a>
 </p>
 
