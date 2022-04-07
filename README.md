@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
 
-- 🔭 I’m currently working on my [Personal Website](https://github.com/JoachimStanislaus/Personal-Website)
+- 🔭 I’m currently working on my [Personal Website](https://github.com/JoachimStanislaus/JoachimStanislaus.github.io)
 
-- 🌱 I’m currently learning **Web Dev with Django**
+- 🌱 I’m currently learning **SEO**
 
 - 📫 How to reach me **Joachimtan00@gmail.com**
 
