@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SEO**
 
-- 📫 How to reach me **Joachimtan00@gmail.com**
+- 📫 How to reach me **Hello@JoachimStanislaus.com**
 
 - ⚡ Fun fact **I play Waterpolo**
 
