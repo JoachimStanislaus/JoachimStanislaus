@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [Personal Website](https://JoachimStanislaus.com)
 
-- 🌱 I’m currently learning **SEO**
+- 🌱 I’m currently learning **Data Analysis and Visualization with Python**
 
 - 📫 How to reach me **Hello@JoachimStanislaus.com**
 
