@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joachimstanislaus" alt="joachimstanislaus" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/joachimmmy" target="blank"><img src="https://img.shields.io/twitter/follow/joachimmmy?logo=twitter&style=for-the-badge" alt="joachimmmy" /></a> </p>
 
 - 🔭 I’m currently working on my [personal website](https://JoachimStanislaus.com)
