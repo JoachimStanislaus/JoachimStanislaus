@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joachim Stanislaus</h1>
-<p align="center">Graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
+<p align="center">Graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science </p>
+## Experience
+
+| Company           | Role                  | Tenure                  |
+|--------------------|-----------------------|-------------------------|
+| UBS               | UI Developer          | September 2024 - Present|
+| Hatless Studios   | Backend Developer     | April 2023 - August 2024|
+| UBS               | Software Developer Intern | June 2023 - August 2023|
+
+
 
 <p align="left"> <a href="https://twitter.com/joachimmmy" target="blank"><img src="https://img.shields.io/twitter/follow/joachimmmy?logo=twitter&style=for-the-badge" alt="joachimmmy" /></a> </p>
 
