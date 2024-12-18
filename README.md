@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joachim Stanislaus</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
-<p align="center">Graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science </p>
+<p align="center">I graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science. I am passionate about all things finance & tech and as such am open to opportunities from companies within the finance / tech space . </p>
 
 <h2>Experience</h2>
 
