@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joachim Stanislaus</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
-<p align="center">I graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science. I am passionate about all things finance & tech. Started out as a Backend Developer but now a Frontend Developer, I am able to contribute as a full-stack developer comfortably if needed. </p>
+<p align="center">I graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science. I am passionate about all things finance & tech. Started out as a Backend Developer but now a Frontend Developer. </p>
 
 <h2>Experience</h2>
 
