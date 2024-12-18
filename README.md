@@ -11,10 +11,6 @@
 | Hatless Studios   | Backend Developer     | April 2023 - August 2024|
 | UBS               | Software Developer Intern | June 2023 - August 2023|
 
-
-
-<p align="left"> <a href="https://twitter.com/joachimmmy" target="blank"><img src="https://img.shields.io/twitter/follow/joachimmmy?logo=twitter&style=for-the-badge" alt="joachimmmy" /></a> </p>
-
 - 📫 How to reach me **hello@joachimstanislaus.com**
 
 <h3 align="left">Connect with me:</h3>
