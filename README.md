@@ -7,7 +7,7 @@
 
 | Company           | Role                  | Tenure                  |
 |--------------------|-----------------------|-------------------------|
-| UBS               | UI Developer          | September 2024 - Present|
+| UBS               | Frontend Developer          | September 2024 - Present|
 | Hatless Studios   | Backend Developer     | April 2023 - August 2024|
 | UBS               | Software Developer Intern | June 2023 - August 2023|
 
