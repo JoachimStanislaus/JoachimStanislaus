@@ -11,6 +11,7 @@
 | Hatless Studios   | Backend Developer     | April 2023 - August 2024|
 | UBS               | Software Developer Intern | June 2023 - August 2023|
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joachimmmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joachimmmy" height="30" width="40" /></a>
