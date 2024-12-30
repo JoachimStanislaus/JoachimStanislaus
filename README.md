@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachimstanislaus&label=Profile%20views&color=0e75b6&style=flat" alt="joachimstanislaus" /> </p>
 <p align="center">I graduated from the University of Exeter with a 2nd Upper Honours degree in Bsc Computer Science. I am passionate about all things finance & tech. Started out as a Backend Developer but now a Frontend Developer. </p>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 <h2>Experience</h2>
 
 | Company           | Role                  | Tenure                  |
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joachimstanislaus&show_icons=true&locale=en" alt="joachimstanislaus" /></p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
