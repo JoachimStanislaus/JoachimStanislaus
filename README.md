@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/joachimstanislaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joachimstanislaus" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joachimstanislaus&show_icons=true&locale=en&layout=compact" alt="joachimstanislaus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joachimstanislaus&show_icons=true&locale=en&layout=compact&hide=css" alt="joachimstanislaus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joachimstanislaus&show_icons=true&locale=en" alt="joachimstanislaus" /></p>
 
